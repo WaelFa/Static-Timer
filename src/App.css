@@ -1,0 +1,13 @@
+.StaticTimer{
+  height: 100vh;
+  text-align: center;
+  padding: 200px;
+}
+.Time{
+  font-size: 70px;
+}
+.Tags{
+  color: rgb(119, 119, 109);
+  margin-top: 20px;
+  margin-left: 25px;
+}
